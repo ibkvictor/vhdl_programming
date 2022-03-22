@@ -1,0 +1,7 @@
+v 4
+file . "sample_tb.vhd" "a6fdaa65f879a4240b4bf545c7211bfddb9574e9" "20220322181914.984":
+  entity and_gate_tb at 2( 74) + 0 on 13;
+  architecture system of and_gate_tb at 12( 305) + 0 on 14;
+file . "sample.vhd" "2bc0c40468ec37a1f6cf07b9fef523f4d797c682" "20220322181816.450":
+  entity and_gate at 1( 0) + 0 on 11;
+  architecture system of and_gate at 14( 244) + 0 on 12;
